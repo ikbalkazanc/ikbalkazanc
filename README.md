@@ -2,6 +2,13 @@
 <img src="https://github.com/ikbalkazanc/Asp.NetCore-IdentityServer4/blob/master/images/horse.gif" alt="Logo">
 </p>
 
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=developer-guy&show_icons=true&theme=radical" alt="developer-guy" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-guy&layout=compact&hide=html&theme=radical" alt="developer-guy"/>
+</p>
+
+
 <p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> <b>Connect with me</b> 
 </p>
