@@ -7,7 +7,7 @@
 :octocat: </img> <b> Github Statistics</b> 
 </p>
 
-<p align="left">
+<p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=ikbalkazanc&show_icons=true&theme=radical" alt="developer-guy" width="480" height="180" />
 </p>
 
