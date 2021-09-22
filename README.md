@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> <b>Connect with me</b> 
+🙋‍♂️ <b>Connect with me</b> 
 </p>
 
 <p align="center">
