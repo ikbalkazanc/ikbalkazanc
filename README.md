@@ -4,13 +4,12 @@
 <img src="https://github.com/ikbalkazanc/Asp.NetCore-IdentityServer4/blob/master/images/horse.gif" alt="Logo">
 </p>
 
-
 <p align="center">
 :octocat: </img> <b> Github Statistics</b> 
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=ikbalkazanc&show_icons=true&theme=radical" alt="developer-guy" width="480" height="180" />
+<img  src="https://github-readme-stats.vercel.app/api?username=ikbalkazanc&show_icons=true&theme=radical" alt="developer-guy"  />
 </p>
 
 
