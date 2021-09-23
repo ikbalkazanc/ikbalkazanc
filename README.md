@@ -23,22 +23,22 @@
   <img src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png" alt="c#" width="40" height="40"/> 
   <img src="https://github.com/github/explore/blob/main/topics/azure/azure.png" alt="azure" width="40" height="40"/>
   <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/>
-  </p>
-  <p align="center">
+ 
     <img src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" alt="ef" width="40" height="40"/> 
   <img src="https://z2c2b4z9.stackpathcdn.com/images/logo256X256.png" alt="dp" width="40" height="40"/> 
+     </p>
+  <p align="center">
   <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" alt="js" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/react/react.png" alt="react" width="40" height="40"/> 
   <img src="https://github.com/github/explore/blob/main/topics/react-native/react-native.png" alt="k3s" width="40" height="40"/> 
-  </p>
-  <p align="center">
+  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://github.com/github/explore/raw/main/topics/go/go.png" alt="go" width="40" height="40"/> 
   <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/> 
   <img src="https://github.com/github/explore/blob/main/topics/redis/redis.png" alt="red" width="40" height="40"/> 
+  </p>
+  <p align="center">
    <img src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" alt="sqls" width="40" height="40"/> 
-   </p>
-    <p align="center">
   <img src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" alt="pg" width="40" height="40"/> 
    <img src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" alt="mg" width="40" height="40"/> 
   </p>
