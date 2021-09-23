@@ -23,8 +23,7 @@
   <img src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png" alt="c#" width="40" height="40"/> 
   <img src="https://github.com/github/explore/blob/main/topics/azure/azure.png" alt="azure" width="40" height="40"/>
   <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/>
- 
-    <img src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" alt="ef" width="40" height="40"/> 
+  <img src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" alt="ef" width="40" height="40"/> 
   <img src="https://z2c2b4z9.stackpathcdn.com/images/logo256X256.png" alt="dp" width="40" height="40"/> 
      </p>
   <p align="center">
