@@ -67,7 +67,8 @@
   <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/d37eb50d868361ea729bb4147eb3c1d8.png" alt="rimworld" width="40" height="40" />
   <img src="https://github.com/ikbalkazanc/ikbalkazanc/assets/60016655/30e984e9-03fe-4daf-aa2f-e0c87e5b71c2" alt="cod2" width="100" height="40" />
   <img src="https://github.com/ikbalkazanc/ikbalkazanc/assets/60016655/8783afff-651f-4049-b707-2dba86f25f7d" alt="mw2" width="100" height="40" />
-
+    <img src="https://github.com/ikbalkazanc/ikbalkazanc/assets/60016655/4e0a881a-b405-4129-95b4-e8af5af13a9e" alt="mb"  height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Battlefield_v_official_logo.png" alt="bf5" height="40" />
 
 </p>
 </p>
