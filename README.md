@@ -26,8 +26,8 @@
   <img src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" alt="ef" width="40" height="40"/> 
   <img src="https://z2c2b4z9.stackpathcdn.com/images/logo256X256.png" alt="dp" width="40" height="40"/> 
   <img src="https://github.com/github/explore/blob/main/topics/android/android.png" alt="android" width="40" height="40"/>
-<img src=https://github.com/github/explore/blob/main/topics/auth0/auth0.png" alt="auth" width="40" height="40"/> 
-<img src=["https://github.com/github/explore/blob/main/topics/android/android.png](https://github.com/github/explore/blob/main/topics/bigquery/bigquery.png)" alt="bg" width="40" height="40"/> 
+  <img src="https://github.com/github/explore/blob/main/topics/auth0/auth0.png" alt="auth" width="40" height="40"/> 
+  <img src=["https://github.com/github/explore/blob/main/topics/android/android.png](https://github.com/github/explore/blob/main/topics/bigquery/bigquery.png)" alt="bg" width="40" height="40"/> 
 
     
      </p>
