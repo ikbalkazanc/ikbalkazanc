@@ -57,8 +57,8 @@
     <img src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" alt="mg" width="40" height="40" />
     <img src="https://github.com/github/explore/blob/main/topics/bigquery/bigquery.png" alt="bg" width="40" height="40" />
     <img src="https://github.com/github/explore/blob/main/topics/elasticsearch/elasticsearch.png" alt="elastic" width="40" height="40" />
-    <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/chof8nv9zavmmxyqnz3y" alt="couchbase"" width="40" height="40" />
-    <img src="https://github.com/github/explore/blob/main/topics/redis/redis.png" alt="redis" width="40" height="40" />
+    <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/chof8nv9zavmmxyqnz3y" alt="couchbase" height="40" />
+    <img src="https://github.com/github/explore/blob/main/topics/redis/redis.png" alt="redis" height="40" />
 </p>
 
 <p align="center">
