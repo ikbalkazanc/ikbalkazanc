@@ -63,12 +63,13 @@
 
 <p align="center">
     <img src="https://gpstatic.com/statics/product_achievements/5108-1__age-of-empires-iv-campaign.jpg" alt="aoe4" width="40" height="40" />
+  
+  <img src="https://github.com/ikbalkazanc/ikbalkazanc/assets/60016655/30e984e9-03fe-4daf-aa2f-e0c87e5b71c2" alt="cod2" height="40" />
+  <img src="https://github.com/ikbalkazanc/ikbalkazanc/assets/60016655/8783afff-651f-4049-b707-2dba86f25f7d" alt="mw2" height="40" />
   <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/6ca4e9af5ea662a095c3243dc591bf54.ico" alt="factorio" width="40" height="40" />
   <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/d37eb50d868361ea729bb4147eb3c1d8.png" alt="rimworld" width="40" height="40" />
-  <img src="https://github.com/ikbalkazanc/ikbalkazanc/assets/60016655/30e984e9-03fe-4daf-aa2f-e0c87e5b71c2" alt="cod2" width="100" height="40" />
-  <img src="https://github.com/ikbalkazanc/ikbalkazanc/assets/60016655/8783afff-651f-4049-b707-2dba86f25f7d" alt="mw2" width="100" height="40" />
-    <img src="https://github.com/ikbalkazanc/ikbalkazanc/assets/60016655/4e0a881a-b405-4129-95b4-e8af5af13a9e" alt="mb"  height="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Battlefield_v_official_logo.png" alt="bf5" height="40" />
+<img src="https://github.com/ikbalkazanc/ikbalkazanc/assets/60016655/261b35f5-cd05-4306-b6b0-59b7a6bf20d8" alt="mb"  height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Battlefield_v_official_logo.png" alt="bf5" height="34" />
 
 </p>
 </p>
